@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="newnotes">newNotes</string>
+    <string name="about">about</string>
+    <string name="enter_notes">Enter Notes</string>
+    <string name="enter_title">Enter Title</string>
+
+    <string name="file_name">notes_Product.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No Notes File Present</string>
+    <string name="saved">Notes Saved!</string>
+    <string name="multi_notes">Multi-Notes</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="_2017_jingqi_yang">© 2017, Jingqi Yang</string>
+</resources>
