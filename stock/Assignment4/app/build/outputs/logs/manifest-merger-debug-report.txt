@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/yangjingqi/.android/build-cache/ddffbc3d190b1013ce0ae2a9f76c1bebf33e6629/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/yangjingqi/.android/build-cache/d67769189615d26b9b22c92f1238c0a65a57ff4d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/yangjingqi/.android/build-cache/3601b5590b31eeed22067975855d7a9a582c1c3d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yangjingqi/.android/build-cache/3002ba9ed1d6998e9faf0bbec4e82f59538fd732/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yangjingqi/.android/build-cache/e8db4537b65fd195d4eaf8cd562de05e774d563b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yangjingqi/.android/build-cache/721e3c7cc825787203f4834c12178e81c96d8692/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yangjingqi/.android/build-cache/1f51a3bcaa9971271d0ea5ace350dd2320a9b185/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yangjingqi/.android/build-cache/20bcc28f636ea94bbd5bc0bd37348c7722ababff/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yangjingqi/.android/build-cache/22bc995ebbd93c5cc49f77c89e6691fd2db3cc02/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/yangjingqi/.android/build-cache/16cb2c24f46230e882a6ecc7efd0d4b068ea285e/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.yangjingqi.assignment4.MainActivity
+ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/yangjingqi/.android/build-cache/ddffbc3d190b1013ce0ae2a9f76c1bebf33e6629/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/yangjingqi/.android/build-cache/d67769189615d26b9b22c92f1238c0a65a57ff4d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/yangjingqi/.android/build-cache/3601b5590b31eeed22067975855d7a9a582c1c3d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yangjingqi/.android/build-cache/3002ba9ed1d6998e9faf0bbec4e82f59538fd732/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yangjingqi/.android/build-cache/e8db4537b65fd195d4eaf8cd562de05e774d563b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yangjingqi/.android/build-cache/721e3c7cc825787203f4834c12178e81c96d8692/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yangjingqi/.android/build-cache/1f51a3bcaa9971271d0ea5ace350dd2320a9b185/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/yangjingqi/.android/build-cache/20bcc28f636ea94bbd5bc0bd37348c7722ababff/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/yangjingqi/.android/build-cache/db2186275e7ae73decdf75c0168db53df8a82995/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yangjingqi/.android/build-cache/22bc995ebbd93c5cc49f77c89e6691fd2db3cc02/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/yangjingqi/.android/build-cache/16cb2c24f46230e882a6ecc7efd0d4b068ea285e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yangjingqi/.android/build-cache/ddffbc3d190b1013ce0ae2a9f76c1bebf33e6629/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangjingqi/Downloads/Assignment4/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yangjingqi/.android/build-cache/ddffbc3d190b1013ce0ae2a9f76c1bebf33e6629/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/yangjingqi/.android/build-cache/d67769189615d26b9b22c92f1238c0a65a57ff4d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/yangjingqi/.android/build-cache/3601b5590b31eeed22067975855d7a9a582c1c3d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yangjingqi/.android/build-cache/3002ba9ed1d6998e9faf0bbec4e82f59538fd732/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yangjingqi/.android/build-cache/e8db4537b65fd195d4eaf8cd562de05e774d563b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yangjingqi/.android/build-cache/721e3c7cc825787203f4834c12178e81c96d8692/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yangjingqi/.android/build-cache/1f51a3bcaa9971271d0ea5ace350dd2320a9b185/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/yangjingqi/.android/build-cache/db2186275e7ae73decdf75c0168db53df8a82995/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yangjingqi/.android/build-cache/22bc995ebbd93c5cc49f77c89e6691fd2db3cc02/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/yangjingqi/.android/build-cache/16cb2c24f46230e882a6ecc7efd0d4b068ea285e/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yangjingqi/.android/build-cache/ddffbc3d190b1013ce0ae2a9f76c1bebf33e6629/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yangjingqi/.android/build-cache/ddffbc3d190b1013ce0ae2a9f76c1bebf33e6629/output/AndroidManifest.xml:26:9-47

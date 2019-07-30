@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yangjingqi/Downloads/Assignment4/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/yangjingqi/.android/build-cache/ddffbc3d190b1013ce0ae2a9f76c1bebf33e6629/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/yangjingqi/Downloads/Assignment4/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/yangjingqi/.android/build-cache/ddffbc3d190b1013ce0ae2a9f76c1bebf33e6629/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/yangjingqi/Downloads/Assignment4/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/yangjingqi/.android/build-cache/ddffbc3d190b1013ce0ae2a9f76c1bebf33e6629/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/yangjingqi/Downloads/Assignment4/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/yangjingqi/.android/build-cache/ddffbc3d190b1013ce0ae2a9f76c1bebf33e6629/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
